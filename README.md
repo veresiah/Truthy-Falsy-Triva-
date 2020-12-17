@@ -1,1 +1,1 @@
-# Truthy-Falsy-Triva-
+# Truthy-Falsy-Trivia-
